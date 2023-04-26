@@ -4,10 +4,10 @@ Está pagina foi desenvolviva como foco na avalição da matéria de desenvolvim
 
 ## ✒️ Autores
 
-* **Francisco Neto** - Engenharia da Computação - *Desenvolvimento do codigo HTML/CSS e JS*
-* **Rayanne Fusato** - Engenharia da Computação - *Design e elaboração conceitual*
-* **Camile Kantovitz** - Ciência da Computação - *Desenvolvimento do codigo HTML/CSS*
-* **Beatriz Setem** - Ciência da Computação - *Design e elaboração conceitual*
+* **[Francisco Neto](https://github.com/francisco-net0)** - Engenharia da Computação - *Desenvolvimento do codigo HTML/CSS e JS*
+* **[Rayanne Fusato](https://github.com/rayfst)** - Engenharia da Computação - *Design e elaboração conceitual*
+* **[Camile Kantovitz](https://github.com/camil6)** - Ciência da Computação - *Desenvolvimento do codigo HTML/CSS*
+* **[Beatriz Setem](https://github.com/beatrizsetem)** - Ciência da Computação - *Design e elaboração conceitual*
 * **Victor Stefano** - Engenharia da Computação - *Design*
 
 ## 🛠️ Construído com
@@ -21,7 +21,8 @@ Está pagina foi desenvolviva como foco na avalição da matéria de desenvolvim
 * Conte a outras pessoas sobre este projeto 📢;
 * Primeiro projeto desenvolvido pelo grupo;
 
-[p1-web.github.io/prova-p1/home.html]
+## Vamos para a página!
+## [HOME](p1-web.github.io/prova-p1/home.html)
 
 
 
