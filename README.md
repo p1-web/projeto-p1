@@ -6,9 +6,15 @@ Está pagina foi desenvolviva como foco na avalição da matéria de desenvolvim
 
 * **Francisco Neto** - Engenharia da Computação - *Desenvolvimento do codigo HTML/CSS e JS*
 * **Rayanne Fusato** - Engenharia da Computação - *Design e elaboração conceitual*
-* **Cammile** - Ciência da Computação - *Desenvolvimento do codigo HTML/CSS*
+* **Camile Kantovitz** - Ciência da Computação - *Desenvolvimento do codigo HTML/CSS*
 * **Beatriz Setem** - Ciência da Computação - *Design e elaboração conceitual*
 * **Victor Stefano** - Engenharia da Computação - *Design*
+
+## 🛠️ Construído com
+
+* **HTML** - Estruturação e configurações da página.
+* **CSS** - Estilização da página
+* **JavaScript** - Controle de ações.
 
 ## 🎁 Expressões de gratidão
 
