@@ -22,7 +22,7 @@ Está pagina foi desenvolviva como foco na avalição da matéria de desenvolvim
 * Primeiro projeto desenvolvido pelo grupo;
 
 ## Vamos para a página!
-## [HOME](p1-web.github.io/prova-p1/home.html)
+## [HOME](home.html)
 
 
 
